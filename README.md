@@ -1,3 +1,3 @@
-# Kube App Launcher Examples
+### Kube App Launcher Examples
 
-Collection of example applications that can be run with the [stateful workload operator](https://github.com/GoogleCloudPlatform/solutions-k8s-stateful-workload-operator).
+# This project is now maintained at: [github.com/selkies-project/selkies-examples](https://github.com/selkies-project/selkies-examples)
